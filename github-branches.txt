@@ -1,0 +1,7 @@
+Command:
+$ git branch -vv
+
+Output:
+  bug-fix-revert  a1b2c3d [origin/bug-fix-revert] Revert "Fix typo: update footer year from 2022 to 2023"
+  bug-fix-typo    e4f5g6h [origin/bug-fix-typo] Fix typo: update footer year from 2022 to 2023
+* main            e4f5g6h [origin/main] Fix typo: update footer year from 2022 to 2023
